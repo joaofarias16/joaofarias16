@@ -2,14 +2,14 @@
 
 Meu nome é **João Pedro Araujo Farias**
 
-Sou aluno da Escola Estadual João Jorge Marmorato.
-Estou no 1º ano do Ensino Médio.
-Meus principais interesses são ouvir músicas e assistir desenhos.
-Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula.
+- Sou aluno da Escola Estadual João Jorge Marmorato.
+- Estou no 1º ano do Ensino Médio.
+- Meus principais interesses são ouvir músicas e assistir desenhos.
+- Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula.
 
 ### Meu contato: 
 
-0000116753282xsp@aluno.educacao.sp.gov.br
+-0000116753282xsp@aluno.educacao.sp.gov.br
 
 
 
